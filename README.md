@@ -1,8 +1,8 @@
 # lesson-flow-ai
 
 # OneLove Ultra-Secure AI Assistant: A Formal Systems-Science Journal Article  
-*Journal of Applied Cyber-Pedagogy — Volume 7, Issue 3 — July 2025*  
-*Authors: Ada Meridian, M.Ed.; Julian Rao, Ph.D.; Simulated Carl Sagan*
+
+![Lesson Flow AI](https://raw.githubusercontent.com/dosh41126/lesson-flow-ai/refs/heads/main/lesson.png)
 
 ---
 
